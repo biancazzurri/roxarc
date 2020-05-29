@@ -1,0 +1,408 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 07:19:27
+* VERSION: 1.3.34
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.3.16                                |7.4.2
+OS__________________: Linux                                 |Darwin
+CREATED_____________: 2020-05-26 19:09:46
+WP VERSION__________: 5.4.1
+DUP VERSION_________: 1.3.34
+DB__________________: 5.6.40
+DB TABLES___________: 13
+DB ROWS_____________: 5,194
+DB FILE SIZE________: 29.06MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.4.2 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0
+DOC ROOT____________: "/Users/romansmelyansky/Documents/Sites/roxarc"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/roxarc/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "shellexec_unzip"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "/Users/romansmelyansky/Documents/Sites/roxarc/roxarcxyz_[HASH]_20200526190946_archive.zip"
+SIZE________________: 176.62MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+
+
+START ZIP FILE EXTRACTION SHELLEXEC >>> 
+<<< Shell-Exec Unzip Complete.
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 07:19:32 - RUNTIME: 4.9756 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 07:19:54
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.6.43 -- Build Server: 5.6.40
+FILE SIZE:	dup-database__[HASH].sql (23.88MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE:	NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/Users/romansmelyansky/Documents/Sites/roxarc/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	13
+RENAMED TABLES:	0
+QUERIES RAN:	148
+
+wpnq_commentmeta: (0)
+wpnq_comments: (1)
+wpnq_duplicator_packages: (0)
+wpnq_links: (0)
+wpnq_options: (186)
+wpnq_postmeta: (5100)
+wpnq_posts: (810)
+wpnq_term_relationships: (29)
+wpnq_term_taxonomy: (7)
+wpnq_termmeta: (0)
+wpnq_terms: (7)
+wpnq_usermeta: (29)
+wpnq_users: (1)
+Removed '27' cache/transient rows
+
+INSERT DATA RUNTIME: 1.5528 sec.
+STEP-2 COMPLETE @ 07:19:56 - RUNTIME: 1.5685 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 07:20:48
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: ""
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/home/roxarc59/public_html"
+path_new______________: "/Users/romansmelyansky/Documents/Sites/roxarc"
+siteurl_______________: "http://localhost:8888/roxarc"
+url_old_______________: "http://roxarc.xyz"
+url_new_______________: "http://localhost:8888/roxarc"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wpnq_commentmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnq_comments"___________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/roxarc59/public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  2:"\/home\/roxarc59\/public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  3:"%2Fhome%2Froxarc59%2Fpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  4:"\home\roxarc59\public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  5:"\\home\\roxarc59\\public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  6:"%5Chome%5Croxarc59%5Cpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  7:"//roxarc.xyz" ====================================> "//localhost:8888/roxarc"
+	SEARCH  8:"\/\/roxarc.xyz" ==================================> "\/\/localhost:8888\/roxarc"
+	SEARCH  9:"%2F%2Froxarc.xyz" ================================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 10:"//www.roxarc.xyz" ================================> "//localhost:8888/roxarc"
+	SEARCH 11:"\/\/www.roxarc.xyz" ==============================> "\/\/localhost:8888\/roxarc"
+	SEARCH 12:"%2F%2Fwww.roxarc.xyz" ============================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 13:"https://localhost:8888/roxarc" ===================> "http://localhost:8888/roxarc"
+	SEARCH 14:"https:\/\/localhost:8888\/roxarc" ================> "http:\/\/localhost:8888\/roxarc"
+	SEARCH 15:"https%3A%2F%2Flocalhost%3A8888%2Froxarc" =========> "http%3A%2F%2Flocalhost%3A8888%2Froxarc"
+
+EVALUATE TABLE: "wpnq_duplicator_packages"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnq_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnq_options"____________________________________[ROWS:   186][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/roxarc59/public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  2:"\/home\/roxarc59\/public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  3:"%2Fhome%2Froxarc59%2Fpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  4:"\home\roxarc59\public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  5:"\\home\\roxarc59\\public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  6:"%5Chome%5Croxarc59%5Cpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  7:"//roxarc.xyz" ====================================> "//localhost:8888/roxarc"
+	SEARCH  8:"\/\/roxarc.xyz" ==================================> "\/\/localhost:8888\/roxarc"
+	SEARCH  9:"%2F%2Froxarc.xyz" ================================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 10:"//www.roxarc.xyz" ================================> "//localhost:8888/roxarc"
+	SEARCH 11:"\/\/www.roxarc.xyz" ==============================> "\/\/localhost:8888\/roxarc"
+	SEARCH 12:"%2F%2Fwww.roxarc.xyz" ============================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 13:"https://localhost:8888/roxarc" ===================> "http://localhost:8888/roxarc"
+	SEARCH 14:"https:\/\/localhost:8888\/roxarc" ================> "http:\/\/localhost:8888\/roxarc"
+	SEARCH 15:"https%3A%2F%2Flocalhost%3A8888%2Froxarc" =========> "http%3A%2F%2Flocalhost%3A8888%2Froxarc"
+
+EVALUATE TABLE: "wpnq_postmeta"___________________________________[ROWS:  5100][PG:   2][SCAN:text columns]
+	SEARCH  1:"/home/roxarc59/public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  2:"\/home\/roxarc59\/public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  3:"%2Fhome%2Froxarc59%2Fpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  4:"\home\roxarc59\public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  5:"\\home\\roxarc59\\public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  6:"%5Chome%5Croxarc59%5Cpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  7:"//roxarc.xyz" ====================================> "//localhost:8888/roxarc"
+	SEARCH  8:"\/\/roxarc.xyz" ==================================> "\/\/localhost:8888\/roxarc"
+	SEARCH  9:"%2F%2Froxarc.xyz" ================================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 10:"//www.roxarc.xyz" ================================> "//localhost:8888/roxarc"
+	SEARCH 11:"\/\/www.roxarc.xyz" ==============================> "\/\/localhost:8888\/roxarc"
+	SEARCH 12:"%2F%2Fwww.roxarc.xyz" ============================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 13:"https://localhost:8888/roxarc" ===================> "http://localhost:8888/roxarc"
+	SEARCH 14:"https:\/\/localhost:8888\/roxarc" ================> "http:\/\/localhost:8888\/roxarc"
+	SEARCH 15:"https%3A%2F%2Flocalhost%3A8888%2Froxarc" =========> "http%3A%2F%2Flocalhost%3A8888%2Froxarc"
+
+EVALUATE TABLE: "wpnq_posts"______________________________________[ROWS:   810][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/roxarc59/public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  2:"\/home\/roxarc59\/public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  3:"%2Fhome%2Froxarc59%2Fpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  4:"\home\roxarc59\public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  5:"\\home\\roxarc59\\public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  6:"%5Chome%5Croxarc59%5Cpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  7:"//roxarc.xyz" ====================================> "//localhost:8888/roxarc"
+	SEARCH  8:"\/\/roxarc.xyz" ==================================> "\/\/localhost:8888\/roxarc"
+	SEARCH  9:"%2F%2Froxarc.xyz" ================================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 10:"//www.roxarc.xyz" ================================> "//localhost:8888/roxarc"
+	SEARCH 11:"\/\/www.roxarc.xyz" ==============================> "\/\/localhost:8888\/roxarc"
+	SEARCH 12:"%2F%2Fwww.roxarc.xyz" ============================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 13:"https://localhost:8888/roxarc" ===================> "http://localhost:8888/roxarc"
+	SEARCH 14:"https:\/\/localhost:8888\/roxarc" ================> "http:\/\/localhost:8888\/roxarc"
+	SEARCH 15:"https%3A%2F%2Flocalhost%3A8888%2Froxarc" =========> "http%3A%2F%2Flocalhost%3A8888%2Froxarc"
+
+EVALUATE TABLE: "wpnq_term_relationships"_________________________[ROWS:    29][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/roxarc59/public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  2:"\/home\/roxarc59\/public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  3:"%2Fhome%2Froxarc59%2Fpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  4:"\home\roxarc59\public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  5:"\\home\\roxarc59\\public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  6:"%5Chome%5Croxarc59%5Cpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  7:"//roxarc.xyz" ====================================> "//localhost:8888/roxarc"
+	SEARCH  8:"\/\/roxarc.xyz" ==================================> "\/\/localhost:8888\/roxarc"
+	SEARCH  9:"%2F%2Froxarc.xyz" ================================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 10:"//www.roxarc.xyz" ================================> "//localhost:8888/roxarc"
+	SEARCH 11:"\/\/www.roxarc.xyz" ==============================> "\/\/localhost:8888\/roxarc"
+	SEARCH 12:"%2F%2Fwww.roxarc.xyz" ============================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 13:"https://localhost:8888/roxarc" ===================> "http://localhost:8888/roxarc"
+	SEARCH 14:"https:\/\/localhost:8888\/roxarc" ================> "http:\/\/localhost:8888\/roxarc"
+	SEARCH 15:"https%3A%2F%2Flocalhost%3A8888%2Froxarc" =========> "http%3A%2F%2Flocalhost%3A8888%2Froxarc"
+
+EVALUATE TABLE: "wpnq_term_taxonomy"______________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/roxarc59/public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  2:"\/home\/roxarc59\/public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  3:"%2Fhome%2Froxarc59%2Fpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  4:"\home\roxarc59\public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  5:"\\home\\roxarc59\\public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  6:"%5Chome%5Croxarc59%5Cpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  7:"//roxarc.xyz" ====================================> "//localhost:8888/roxarc"
+	SEARCH  8:"\/\/roxarc.xyz" ==================================> "\/\/localhost:8888\/roxarc"
+	SEARCH  9:"%2F%2Froxarc.xyz" ================================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 10:"//www.roxarc.xyz" ================================> "//localhost:8888/roxarc"
+	SEARCH 11:"\/\/www.roxarc.xyz" ==============================> "\/\/localhost:8888\/roxarc"
+	SEARCH 12:"%2F%2Fwww.roxarc.xyz" ============================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 13:"https://localhost:8888/roxarc" ===================> "http://localhost:8888/roxarc"
+	SEARCH 14:"https:\/\/localhost:8888\/roxarc" ================> "http:\/\/localhost:8888\/roxarc"
+	SEARCH 15:"https%3A%2F%2Flocalhost%3A8888%2Froxarc" =========> "http%3A%2F%2Flocalhost%3A8888%2Froxarc"
+
+EVALUATE TABLE: "wpnq_termmeta"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnq_terms"______________________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/roxarc59/public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  2:"\/home\/roxarc59\/public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  3:"%2Fhome%2Froxarc59%2Fpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  4:"\home\roxarc59\public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  5:"\\home\\roxarc59\\public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  6:"%5Chome%5Croxarc59%5Cpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  7:"//roxarc.xyz" ====================================> "//localhost:8888/roxarc"
+	SEARCH  8:"\/\/roxarc.xyz" ==================================> "\/\/localhost:8888\/roxarc"
+	SEARCH  9:"%2F%2Froxarc.xyz" ================================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 10:"//www.roxarc.xyz" ================================> "//localhost:8888/roxarc"
+	SEARCH 11:"\/\/www.roxarc.xyz" ==============================> "\/\/localhost:8888\/roxarc"
+	SEARCH 12:"%2F%2Fwww.roxarc.xyz" ============================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 13:"https://localhost:8888/roxarc" ===================> "http://localhost:8888/roxarc"
+	SEARCH 14:"https:\/\/localhost:8888\/roxarc" ================> "http:\/\/localhost:8888\/roxarc"
+	SEARCH 15:"https%3A%2F%2Flocalhost%3A8888%2Froxarc" =========> "http%3A%2F%2Flocalhost%3A8888%2Froxarc"
+
+EVALUATE TABLE: "wpnq_usermeta"___________________________________[ROWS:    29][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/roxarc59/public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  2:"\/home\/roxarc59\/public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  3:"%2Fhome%2Froxarc59%2Fpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  4:"\home\roxarc59\public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  5:"\\home\\roxarc59\\public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  6:"%5Chome%5Croxarc59%5Cpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  7:"//roxarc.xyz" ====================================> "//localhost:8888/roxarc"
+	SEARCH  8:"\/\/roxarc.xyz" ==================================> "\/\/localhost:8888\/roxarc"
+	SEARCH  9:"%2F%2Froxarc.xyz" ================================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 10:"//www.roxarc.xyz" ================================> "//localhost:8888/roxarc"
+	SEARCH 11:"\/\/www.roxarc.xyz" ==============================> "\/\/localhost:8888\/roxarc"
+	SEARCH 12:"%2F%2Fwww.roxarc.xyz" ============================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 13:"https://localhost:8888/roxarc" ===================> "http://localhost:8888/roxarc"
+	SEARCH 14:"https:\/\/localhost:8888\/roxarc" ================> "http:\/\/localhost:8888\/roxarc"
+	SEARCH 15:"https%3A%2F%2Flocalhost%3A8888%2Froxarc" =========> "http%3A%2F%2Flocalhost%3A8888%2Froxarc"
+
+EVALUATE TABLE: "wpnq_users"______________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/roxarc59/public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  2:"\/home\/roxarc59\/public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  3:"%2Fhome%2Froxarc59%2Fpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  4:"\home\roxarc59\public_html" ======================> "/Users/romansmelyansky/Documents/Sites/roxarc"
+	SEARCH  5:"\\home\\roxarc59\\public_html" ===================> "\/Users\/romansmelyansky\/Documents\/Sites\/roxarc"
+	SEARCH  6:"%5Chome%5Croxarc59%5Cpublic_html" ================> "%2FUsers%2Fromansmelyansky%2FDocuments%2FSites%2Froxarc"
+	SEARCH  7:"//roxarc.xyz" ====================================> "//localhost:8888/roxarc"
+	SEARCH  8:"\/\/roxarc.xyz" ==================================> "\/\/localhost:8888\/roxarc"
+	SEARCH  9:"%2F%2Froxarc.xyz" ================================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 10:"//www.roxarc.xyz" ================================> "//localhost:8888/roxarc"
+	SEARCH 11:"\/\/www.roxarc.xyz" ==============================> "\/\/localhost:8888\/roxarc"
+	SEARCH 12:"%2F%2Fwww.roxarc.xyz" ============================> "%2F%2Flocalhost%3A8888%2Froxarc"
+	SEARCH 13:"https://localhost:8888/roxarc" ===================> "http://localhost:8888/roxarc"
+	SEARCH 14:"https:\/\/localhost:8888\/roxarc" ================> "http:\/\/localhost:8888\/roxarc"
+	SEARCH 15:"https%3A%2F%2Flocalhost%3A8888%2Froxarc" =========> "http%3A%2F%2Flocalhost%3A8888%2Froxarc"
+--------------------------------------
+SCANNED:	Tables:13 	|	 Rows:6170 	|	 Cells:40072 
+UPDATED:	Tables:3 	|	 Rows:1445 	|	 Cells:1939 
+ERRORS:		0 
+RUNTIME:	2.554700 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""roxarc""
+	UPDATE DB_USER ""root""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""127.0.0.1""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 07:20:51 - RUNTIME: 2.6060 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================

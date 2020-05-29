@@ -1,0 +1,41 @@
+[06-Mar-2020 13:57:03 UTC] PHP Warning:  Use of undefined constant PHP_MAX_INT - assumed 'PHP_MAX_INT' (this will throw an Error in a future version of PHP) in /home/roxarc59/public_html/wp-content/themes/vinci-pro-child/functions.php on line 12
+[06-Mar-2020 13:57:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roxarc59/public_html/wp-content/themes/vinci-pro-child/functions.php:12) in /home/roxarc59/public_html/wp-includes/pluggable.php on line 1265
+[13-Mar-2020 17:02:26 UTC] PHP Warning:  Use of undefined constant PHP_MAX_INT - assumed 'PHP_MAX_INT' (this will throw an Error in a future version of PHP) in /home/roxarc59/public_html/wp-content/themes/vinci-pro-child/functions.php on line 12
+[13-Mar-2020 17:02:52 UTC] PHP Warning:  Use of undefined constant PHP_MAX_INT - assumed 'PHP_MAX_INT' (this will throw an Error in a future version of PHP) in /home/roxarc59/public_html/wp-content/themes/vinci-pro-child/functions.php on line 12
+[27-Mar-2020 19:33:30 UTC] PHP Warning:  Use of undefined constant PHP_MAX_INT - assumed 'PHP_MAX_INT' (this will throw an Error in a future version of PHP) in /home/roxarc59/public_html/wp-content/themes/vinci-pro-child/functions.php on line 12
+[27-Mar-2020 19:33:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roxarc59/public_html/wp-content/themes/vinci-pro-child/functions.php:12) in /home/roxarc59/public_html/wp-includes/pluggable.php on line 1265
+[27-Mar-2020 19:35:38 UTC] PHP Warning:  Use of undefined constant PHP_MAX_INT - assumed 'PHP_MAX_INT' (this will throw an Error in a future version of PHP) in /home/roxarc59/public_html/wp-content/themes/vinci-pro-child/functions.php on line 12
+[27-Mar-2020 19:35:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roxarc59/public_html/wp-content/themes/vinci-pro-child/functions.php:12) in /home/roxarc59/public_html/wp-includes/pluggable.php on line 1265
+[05-May-2020 19:20:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/roxarc59/public_html/wp-content/plugins/premium-addons-for-elementor/widgets/premium-carousel.php on line 1068
+[05-May-2020 19:48:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/roxarc59/public_html/wp-content/plugins/premium-addons-for-elementor/widgets/premium-carousel.php on line 1068
+[05-May-2020 20:23:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/roxarc59/public_html/wp-content/plugins/premium-addons-for-elementor/widgets/premium-carousel.php on line 1068
+[18-May-2020 19:20:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/roxarc59/public_html/wp-content/plugins/elementor/core/documents-manager.php:479
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 /home/roxarc59/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/roxarc59/public_html/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 /home/roxarc59/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/roxarc59/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/roxarc59/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in /home/roxarc59/public_html/wp-content/plugins/elementor/core/documents-manager.php on line 479
+[18-May-2020 19:20:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/roxarc59/public_html/wp-content/plugins/elementor/core/documents-manager.php:479
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 /home/roxarc59/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/roxarc59/public_html/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 /home/roxarc59/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/roxarc59/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/roxarc59/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in /home/roxarc59/public_html/wp-content/plugins/elementor/core/documents-manager.php on line 479
+[18-May-2020 19:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/roxarc59/public_html/wp-content/plugins/elementor/core/documents-manager.php:479
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 /home/roxarc59/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/roxarc59/public_html/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 /home/roxarc59/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/roxarc59/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/roxarc59/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in /home/roxarc59/public_html/wp-content/plugins/elementor/core/documents-manager.php on line 479

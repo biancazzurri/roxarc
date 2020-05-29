@@ -1,0 +1,1357 @@
+# Translation of Plugins - Page Builder by SiteOrigin - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - Page Builder by SiteOrigin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-20 12:36:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - Page Builder by SiteOrigin - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://siteorigin.com"
+msgstr "https://siteorigin.com"
+
+#. Author of the plugin/theme
+msgid "SiteOrigin"
+msgstr "SiteOrigin"
+
+#. Description of the plugin/theme
+msgid "A drag and drop, responsive page builder that simplifies building your website."
+msgstr "בנאי דפים רספונסיבי בגרירה ושחרור שמפשט את בניית האתר שלך"
+
+#. Plugin URI of the plugin/theme
+msgid "https://siteorigin.com/page-builder/"
+msgstr "https://siteorigin.com/page-builder/"
+
+#. Plugin Name of the plugin/theme
+msgid "Page Builder by SiteOrigin"
+msgstr "בנאי הדפים של SiteOrigin"
+
+#: widgets/widgets.php:951
+msgid "Auto Play Video"
+msgstr "הפעלה אוטומטית של הסרטון"
+
+#: widgets/widgets.php:946
+msgid "An image that displays before the video starts playing."
+msgstr "התמונה המוצגת לפני ניגון הסרטון"
+
+#: widgets/widgets.php:944
+msgid "Poster URL"
+msgstr "כתובת הפוסטר"
+
+#: widgets/widgets.php:940
+msgid "Video URL"
+msgstr "כתובת הסרטון"
+
+#: widgets/widgets.php:898
+msgid "A self hosted video player."
+msgstr "נגן סרטונים לסרטונים בשרת שלך"
+
+#: widgets/widgets.php:896
+msgid "Self Hosted Video (PB)"
+msgstr "סרטו בשרת "
+
+#: widgets/widgets.php:880
+msgid "Video"
+msgstr "ווידאו"
+
+#: widgets/widgets.php:842
+msgid "Embeds a video."
+msgstr "הטמעת סרטון"
+
+#: widgets/widgets.php:840
+msgid "Embedded Video (PB)"
+msgstr "סרטון מוטמע"
+
+#: widgets/widgets.php:789
+msgid "Displays a simple image."
+msgstr "הצגת תמונה פשוטה"
+
+#: widgets/widgets.php:787
+msgid "Image (PB)"
+msgstr "תמונה"
+
+#: widgets/widgets.php:769
+msgid "File"
+msgstr "קובץ"
+
+#: widgets/widgets.php:768
+msgid "Attachment Page"
+msgstr "עמוד הקובץ"
+
+#: widgets/widgets.php:766
+msgid "Link To"
+msgstr "קישור ל"
+
+#: widgets/widgets.php:761
+msgid "Columns"
+msgstr "עמודות"
+
+#: widgets/widgets.php:756
+msgid "Gallery Type"
+msgstr "סוג הגלריה"
+
+#: widgets/widgets.php:748
+msgid "Full"
+msgstr "רוחב מלא"
+
+#: widgets/widgets.php:747
+msgid "Thumbnail"
+msgstr "תמונוה ממוזערת"
+
+#: widgets/widgets.php:746
+msgid "Medium"
+msgstr "בינוני"
+
+#: widgets/widgets.php:745
+msgid "Large"
+msgstr "גדול"
+
+#: widgets/widgets.php:742
+msgid "Image Size"
+msgstr "גודל התמונה"
+
+#: widgets/widgets.php:738
+msgid "Comma separated attachment IDs. Defaults to all current page's attachments."
+msgstr "מזהי תמונה מופרדים בפסיק. ברירת המחדל היא לכל התמונות המשויכות לעמוד:"
+
+#: widgets/widgets.php:734
+msgid "edit gallery"
+msgstr "עריכת הגלריה"
+
+#: widgets/widgets.php:733
+msgid "Gallery Images"
+msgstr "תמונות הגלריה"
+
+#: widgets/widgets.php:694
+msgid "Displays a gallery."
+msgstr "הצגת גלריה"
+
+#: widgets/widgets.php:692
+msgid "Gallery (PB)"
+msgstr "גלריה"
+
+#: widgets/widgets.php:631
+msgid "Additional Arguments"
+msgstr "טיעונים נוספים"
+
+#: widgets/widgets.php:231
+msgid "%s Style"
+msgstr "עיצוב %s"
+
+#: widgets/widgets.php:207
+msgid "Style"
+msgstr "עיצוב"
+
+#. TRANSLATORS: Uniform Resource Locator
+#: widgets/widgets/testimonial/testimonial.php:32
+msgid "URL"
+msgstr "כתובת URL"
+
+#: widgets/widgets/testimonial/testimonial.php:23
+msgid "Image"
+msgstr "תמונה"
+
+#: widgets/widgets/testimonial/testimonial.php:19
+msgid "Location"
+msgstr "מיקום"
+
+#: widgets/widgets/testimonial/testimonial.php:8
+msgid "Displays a bullet list of points"
+msgstr "הצגת רשימת רכיבים עם כדורים"
+
+#: widgets/widgets/testimonial/testimonial.php:6
+msgid "Testimonial (PB)"
+msgstr "משוב"
+
+#: widgets/widgets/price-box/price-box.php:50
+msgid "Feature List"
+msgstr "רשימת מאפיינים"
+
+#: widgets/widgets/price-box/price-box.php:31
+msgid "Features Text"
+msgstr "טקסט מאפיינים"
+
+#: widgets/widgets/price-box/price-box.php:27
+msgid "Information Text"
+msgstr "טקסט מידע"
+
+#: widgets/widgets/price-box/price-box.php:23
+msgid "Per"
+msgstr "ל"
+
+#: widgets/widgets/price-box/price-box.php:19
+msgid "Price"
+msgstr "מחיר"
+
+#: widgets/widgets/price-box/price-box.php:6
+msgid "Price Box (PB)"
+msgstr "תיבת מחיר"
+
+#: widgets/widgets/list/list.php:20 widgets/widgets/price-box/price-box.php:32
+msgid "Start each new point with an asterisk (*)"
+msgstr "התחלת כל נקודה חדשה עם כוכבית (*)"
+
+#: widgets/widgets/list/list.php:8 widgets/widgets/price-box/price-box.php:8
+msgid "Displays a bullet list of elements"
+msgstr "הצגת רשימת רכיבים עם כדורים"
+
+#: widgets/widgets/list/list.php:6
+msgid "List (PB)"
+msgstr "רשימה"
+
+#: widgets/widgets/call-to-action/call-to-action.php:37
+#: widgets/widgets/price-box/price-box.php:49
+msgid "Button"
+msgstr "כפתור"
+
+#: widgets/widgets/call-to-action/call-to-action.php:27
+#: widgets/widgets/price-box/price-box.php:40
+msgid "Button URL"
+msgstr "כתובת הכפתור"
+
+#: widgets/widgets/call-to-action/call-to-action.php:23
+#: widgets/widgets/price-box/price-box.php:36
+msgid "Button Text"
+msgstr "טקסט הכפתור"
+
+#: widgets/widgets/call-to-action/call-to-action.php:19
+msgid "Sub Title"
+msgstr "כותרת משנה"
+
+#: widgets/widgets/call-to-action/call-to-action.php:8
+msgid "A Call to Action block"
+msgstr "תיבת קריאה לפעולה"
+
+#: widgets/widgets/call-to-action/call-to-action.php:6
+msgid "Call To Action (PB)"
+msgstr "קריאה לפעולה"
+
+#: widgets/widgets/button/button.php:32
+msgid "Justify"
+msgstr "יישור לשני הצדדים"
+
+#: widgets/widgets/button/button.php:31
+msgid "Center"
+msgstr "מרכז"
+
+#: widgets/widgets/button/button.php:30
+msgid "Right"
+msgstr "ימין"
+
+#: widgets/widgets/button/button.php:29
+msgid "Left"
+msgstr "שמאל"
+
+#: widgets/widgets/button/button.php:27
+msgid "Button Alignment"
+msgstr "יישור הכפתור"
+
+#: widgets/widgets/button/button.php:23
+#: widgets/widgets/call-to-action/call-to-action.php:31
+#: widgets/widgets/price-box/price-box.php:44
+#: widgets/widgets/testimonial/testimonial.php:36
+msgid "Open In New Window"
+msgstr "פתיחת הקישור בחלון חדש"
+
+#: widgets/widgets/button/button.php:19 widgets/widgets.php:826
+msgid "Destination URL"
+msgstr "כתובת יעד"
+
+#: widgets/widgets/button/button.php:15 widgets/widgets/list/list.php:19
+#: widgets/widgets/testimonial/testimonial.php:27
+msgid "Text"
+msgstr "טקסט"
+
+#: widgets/widgets/button/button.php:6
+msgid "Button (PB)"
+msgstr "כפתור"
+
+#: widgets/widgets/animated-image/animated-image.php:25
+msgid "Slide Right"
+msgstr "החלקה ימינה"
+
+#: widgets/widgets/animated-image/animated-image.php:24
+msgid "Slide Left"
+msgstr "החלקה שמאלה"
+
+#: widgets/widgets/animated-image/animated-image.php:23
+msgid "Slide Down"
+msgstr "החלקה למטה"
+
+#: widgets/widgets/animated-image/animated-image.php:22
+msgid "Slide Up"
+msgstr "החלקה למעלה"
+
+#: widgets/widgets/animated-image/animated-image.php:21
+msgid "Fade In"
+msgstr "עמעום פנימה"
+
+#: widgets/widgets/animated-image/animated-image.php:19
+msgid "Animation"
+msgstr "הנפשה"
+
+#: widgets/widgets/animated-image/animated-image.php:15 widgets/widgets.php:822
+msgid "Image URL"
+msgstr "כתובת התמונה"
+
+#: widgets/widgets/animated-image/animated-image.php:8
+msgid "An image that animates in when it enters the screen."
+msgstr "תמונה הנכנסת למסך בהנפשה"
+
+#: widgets/widgets/animated-image/animated-image.php:6
+msgid "Animated Image (PB)"
+msgstr "תמונת אנימציה"
+
+#: widgets/basic.php:477 widgets/widgets.php:635
+msgid "Additional query arguments. See 1{query_posts}."
+msgstr "טיעוני שאילתא נוספים. ראה 1 {query_posts}."
+
+#: widgets/basic.php:470
+msgid "Additional "
+msgstr "עוד"
+
+#: widgets/basic.php:465 widgets/widgets.php:625
+msgid "Only Sticky"
+msgstr "רק דביק"
+
+#: widgets/basic.php:464 widgets/widgets.php:624
+msgid "Exclude Sticky"
+msgstr "חוץ מדביק"
+
+#: widgets/basic.php:463 widgets/widgets.php:623
+msgid "Ignore Sticky"
+msgstr "להתעלם מדביק"
+
+#: widgets/basic.php:462 widgets/widgets.php:622 widgets/widgets.php:744
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: widgets/basic.php:460 widgets/widgets.php:620
+msgid "Sticky Posts"
+msgstr "פוסטים דביקים"
+
+#: widgets/basic.php:455 widgets/widgets.php:613
+msgid "Ascending"
+msgstr "סדר עולה"
+
+#: widgets/basic.php:454 widgets/widgets.php:614
+msgid "Descending"
+msgstr "סדר יורד"
+
+#: widgets/basic.php:452 widgets/widgets.php:611
+msgid "Order"
+msgstr "סדר"
+
+#: widgets/basic.php:447
+msgid "Post In Order"
+msgstr "לפרסם בסדר"
+
+#: widgets/basic.php:446 widgets/widgets.php:605
+msgid "Menu Order"
+msgstr "סדר התפריט"
+
+#: widgets/basic.php:445 widgets/widgets.php:604
+msgid "Comment Count"
+msgstr "מונה תגובות"
+
+#: widgets/basic.php:444 widgets/widgets.php:603
+msgid "Random"
+msgstr "אקראי"
+
+#: widgets/basic.php:443 widgets/widgets.php:602
+msgid "Parent"
+msgstr "אב"
+
+#: widgets/basic.php:442 widgets/widgets.php:601
+msgid "Modified"
+msgstr "השתנה"
+
+#: widgets/basic.php:441 widgets/widgets.php:600
+msgid "Date"
+msgstr "תאריך"
+
+#: widgets/basic.php:439 widgets/basic.php:440
+#: widgets/widgets/testimonial/testimonial.php:15 widgets/widgets.php:598
+#: widgets/widgets.php:599
+msgid "Name"
+msgstr "שם"
+
+#: widgets/basic.php:438 widgets/widgets.php:597
+msgid "Author"
+msgstr "מחבר"
+
+#: widgets/basic.php:437 widgets/widgets.php:596
+msgid "Post ID"
+msgstr "מזהה הפוסט"
+
+#: widgets/basic.php:434 widgets/widgets.php:593
+msgid "Order By"
+msgstr "סדר על ידי"
+
+#: widgets/basic.php:429 widgets/widgets.php:588
+msgid "Posts Per Page"
+msgstr "פוסטים לעמוד"
+
+#: widgets/basic.php:420 widgets/widgets.php:581
+msgid "Post Type"
+msgstr "סוג פוסט"
+
+#: widgets/basic.php:386
+msgid "If the template supports it, cut posts and display the more link."
+msgstr "אם התבנית תומכת בכך, הפוסט ייחתך ויוצג קישור למידע נוסף."
+
+#: widgets/basic.php:384
+msgid "More Link "
+msgstr "קישורים נוספים"
+
+#: widgets/basic.php:368
+msgid "Template"
+msgstr "תבנית"
+
+#: widgets/basic.php:358
+msgid "Your theme doesn't have any post loops."
+msgstr "לתבנית שלך אין לופ פוסטים"
+
+#: widgets/basic.php:159
+msgid "Displays a post loop."
+msgstr "מציג לופ פוסטים"
+
+#: widgets/basic.php:157
+msgid "Post Loop"
+msgstr "לופ פוסטים"
+
+#: widgets/basic.php:137
+msgid "Display Content"
+msgstr "הצגת תוכן"
+
+#: widgets/basic.php:132
+msgid "Featured Image"
+msgstr "תמונה ראשית"
+
+#: widgets/basic.php:131 widgets/basic.php:364
+#: widgets/widgets/call-to-action/call-to-action.php:15
+#: widgets/widgets/list/list.php:15 widgets/widgets/price-box/price-box.php:15
+msgid "Title"
+msgstr "כותרת"
+
+#: widgets/basic.php:130 widgets/basic.php:436 widgets/widgets.php:595
+#: widgets/widgets.php:770
+msgid "None"
+msgstr "ללא"
+
+#: widgets/basic.php:84
+msgid "Displays content from the current post."
+msgstr "הצגת תוכן מפוסט זה"
+
+#: widgets/basic.php:82
+msgid "Post Content"
+msgstr "תוכן הפוסט"
+
+#: widgets/basic.php:53
+msgid "Open Builder"
+msgstr "פתיחת הבנאי"
+
+#: widgets/basic.php:15
+msgid "A complete SiteOrigin Page Builder layout as a widget."
+msgstr "בנאי דפים כוידג'ט"
+
+#. TRANSLATORS: This is the name of a widget
+#: widgets/basic.php:13
+msgid "Layout Builder"
+msgstr "בנאי פריסות"
+
+#: tpl/options.php:82
+msgid "Inline CSS"
+msgstr "קוד עיצוב CSS בשורה"
+
+#: tpl/options.php:76
+msgid "Cell Side Margins"
+msgstr "שוליים צדדיים של תא"
+
+#: tpl/options.php:58
+msgid "Should the layout collapse for mobile devices."
+msgstr "האם לקפל את התצוגה במכשירים ניידים"
+
+#: tpl/options.php:48
+msgid "Display"
+msgstr "תצוגה"
+
+#: tpl/options.php:40
+msgid "Include the bundled widgets."
+msgstr "לכלול את אוסף הוידג'טים"
+
+#: tpl/options.php:39
+msgid "Bundled Widgets"
+msgstr "אוסף וידג'טים"
+
+#: tpl/options.php:33
+msgid "Disable animations for improved performance."
+msgstr "ביטול הנפשות למיטוב"
+
+#: tpl/options.php:32
+msgid "Animations"
+msgstr "הנפשות"
+
+#: tpl/options.php:26
+msgid "Copy content from Page Builder into the standard content editor."
+msgstr "העתקת התוכן מעורך הדפים לעורך התוכן הרגיל"
+
+#: tpl/js-templates.php:560
+msgid "No Results"
+msgstr "אין תוצאות"
+
+#: tpl/js-templates.php:512
+msgid "Close Live Editor"
+msgstr "סגירת העורך החזותי"
+
+#: tpl/js-templates.php:487
+msgid "Restore Version"
+msgstr "שחזור גרסה"
+
+#: tpl/js-templates.php:473
+msgid "Page Builder Change History"
+msgstr "הסטורית השינויים שלי בנאי הדפים"
+
+#: tpl/js-templates.php:452
+msgid "Download Layout"
+msgstr "הורדת פריסה"
+
+#: tpl/js-templates.php:440
+msgid "Select Import File"
+msgstr "לבחור קובץ ליבוא"
+
+#: tpl/js-templates.php:437
+msgid "Or"
+msgstr "או"
+
+#: tpl/js-templates.php:436
+msgid "Drop import file here"
+msgstr "נא לגרור לכאן את הקובץ ליבוא"
+
+#: tpl/js-templates.php:426
+msgid "Next"
+msgstr "הבא"
+
+#: tpl/js-templates.php:425
+msgid "Previous"
+msgstr "הקודם"
+
+#: tpl/js-templates.php:398
+msgid "Your search didn't return any results"
+msgstr "החיפוש שלך לא החזיר שום תוצאות"
+
+#: tpl/js-templates.php:392
+msgid "Newest Layouts"
+msgstr "הפריסות החדשות ביותר"
+
+#: tpl/js-templates.php:384
+msgid "Enable"
+msgstr "הפעלה"
+
+#: tpl/js-templates.php:383
+msgid "Do you want to browse the Prebuilt Layouts directory?"
+msgstr "האם לפרוש את תיקיית הפריסות שנבנו מראש?"
+
+#: tpl/js-templates.php:365
+msgid "Clone: %s"
+msgstr "שכפול: %s"
+
+#: tpl/js-templates.php:359
+msgid "Import/Export"
+msgstr "יבוא / יצוא"
+
+#: tpl/js-templates.php:358
+msgid "Layouts Directory"
+msgstr "תיקיית פריסות"
+
+#: tpl/js-templates.php:355
+msgid "Theme Defined"
+msgstr "מוגדר בתבנית"
+
+#: tpl/js-templates.php:351
+msgid "Search"
+msgstr "חיפוש"
+
+#: tpl/js-templates.php:347
+msgid "Prebuilt Layouts"
+msgstr "פריסות בנויות מראש"
+
+#: tpl/js-templates.php:329
+msgid "Save"
+msgstr "שמירה"
+
+#: tpl/js-templates.php:327
+msgid "Insert"
+msgstr "הוספה"
+
+#: tpl/js-templates.php:308
+msgid "Set"
+msgstr "הגדרה"
+
+#: tpl/js-templates.php:302
+msgid "1{Set row layout}: %1$s columns with a ratio of %2$s going from %3$s"
+msgstr "1 (קביעת פריסת השורה): %1$s עמודות ביחס של %2$s ל %3$s"
+
+#: tpl/js-templates.php:291
+msgid "Right to Left"
+msgstr "מימין לשמאל"
+
+#: tpl/js-templates.php:290
+msgid "Left to Right"
+msgstr "משמאל לימין"
+
+#: tpl/js-templates.php:254
+msgid "Add New Row"
+msgstr "הוספת שורה חדשה"
+
+#: tpl/js-templates.php:199
+msgid "Close"
+msgstr "סגור"
+
+#: tpl/js-templates.php:183
+msgid "Add New Widget %s"
+msgstr "הוספת וידג'ט %s חדש"
+
+#: tpl/js-templates.php:169 tpl/js-templates.php:234
+msgid "Done"
+msgstr "בוצע"
+
+#: tpl/js-templates.php:115 tpl/js-templates.php:230 tpl/js-templates.php:321
+msgid "Delete"
+msgstr "מחיקה"
+
+#: tpl/js-templates.php:114 tpl/js-templates.php:231 tpl/js-templates.php:322
+msgid "Duplicate"
+msgstr "שכפול"
+
+#: tpl/js-templates.php:113
+msgid "Edit"
+msgstr "עריכה"
+
+#: tpl/js-templates.php:85
+msgid "Delete Row"
+msgstr "מחיקת השורה"
+
+#: tpl/js-templates.php:84
+msgid "Duplicate Row"
+msgstr "שכפול השורה"
+
+#: tpl/js-templates.php:83 tpl/js-templates.php:256
+msgid "Edit Row"
+msgstr "עריכת השורה"
+
+#. TRANSLATORS: This message gives suggestions of next steps for the user
+#. x{...} is used to insert links
+#: tpl/js-templates.php:64
+msgid "Add a 1{widget}, 2{row} or 3{prebuilt layout} to get started. Read our 4{documentation} if you need help."
+msgstr "הוספת 1 (וידג'ט), 2 (שורה) או 3 (פריסות מוכנות מראש) כדי להתחיל. נא לקרוא את 4 (התיעוד) שלנו אם יש צורך בעזרה."
+
+#: tpl/js-templates.php:39
+msgid "Switch to Editor"
+msgstr "החלפה לעורך"
+
+#: tpl/js-templates.php:34
+msgid "Live Editor"
+msgstr "עורך חזותי"
+
+#: tpl/js-templates.php:29
+msgid "History"
+msgstr "הסטוריה"
+
+#: tpl/js-templates.php:22
+msgid "Prebuilt"
+msgstr "בנוי מראש"
+
+#: tpl/js-templates.php:12
+msgid "Add Widget"
+msgstr "הוספת וידג'ט"
+
+#: tpl/help.php:18
+msgid "Read the 1{full documentation} on SiteOrigin. Ask a question on our 2{support forum} if you need help and sign up to 3{our newsletter} to stay up to date with future developments."
+msgstr "נא לקרוא את 1{full documentation} ב SiteOrigin. שאלו שאלה ב2{support forum} אם צריך עזרה והירשמו ל3{our newsletter} שלנו כדי להישאר מעודכנים בפיתוח."
+
+#: tpl/help.php:3
+msgid "The page layouts are responsive and fully customizable."
+msgstr "פריסת העמודים רספונסיבית וניתנת לעיצוב והתאמה."
+
+#: tpl/help.php:2
+msgid "You can use SiteOrigin Page Builder to create home and sub pages, filled your own widgets."
+msgstr "ניתן להשתמש בבנאי הדפים כדי ליצור עמוד בית ועמודי משנה, מלאים בוידג'טים לבחירתך."
+
+#: tpl/admin-home-page.php:50
+msgid "This interface requires Javascript"
+msgstr "ממשק זה דורש Javascript"
+
+#: tpl/admin-home-page.php:46
+msgid "Save Home Page"
+msgstr "שמירת עמוד הבית"
+
+#: tpl/admin-home-page.php:29
+msgid "Home page updated. 1{View page}."
+msgstr "העמוד עודכן. 1 (הצגת העמוד)."
+
+#: tpl/admin-home-page.php:13
+msgid "Custom Home Page"
+msgstr "עמוד בית מותאם אישית"
+
+#: tpl/admin-home-page.php:9
+msgid "Off"
+msgstr "כיבוי"
+
+#: tpl/admin-home-page.php:9
+msgid "On"
+msgstr "הפעלה"
+
+#: siteorigin-panels.php:1390
+msgid "Newsletter"
+msgstr "ניוזלטר"
+
+#: siteorigin-panels.php:1389
+msgid "Support Forum"
+msgstr "תמיכה"
+
+#: siteorigin-panels.php:1322
+msgid "The widget 1{%1$s} is not available. Please try locate and install the missing plugin. Post on the 2{support forums} if you need help."
+msgstr "הוידג'ט 1{%1$s} אינו זמין. נא לנסות לאתר ולהתקין את התוסף החסר. אם יש צורך בעזרה, נא לפרסם בפורום התמיכה."
+
+#: siteorigin-panels.php:1305
+msgid "Save and reload this page to start using the widget after you've installed it."
+msgstr "נא לשמור ולרענן את העמוד כדי להתחיל להשתמש בוידג'ט אחרי שהתקנת אותו."
+
+#: siteorigin-panels.php:1299
+msgid "You need to install 1{%1$s} to use the widget 2{%2$s}."
+msgstr "צריך להתקין 1{%1$s} כדי להשתמש בוידג'ט 2{%2$s}."
+
+#: siteorigin-panels.php:1207
+msgid "Edit Home Page"
+msgstr "עריכת עמוד הבית"
+
+#: siteorigin-panels.php:834
+msgid "Read More"
+msgstr "המשך קריאה"
+
+#: siteorigin-panels.php:442
+msgid "Untitled Widget"
+msgstr "וידג'ט ללא כותרת"
+
+#: siteorigin-panels.php:395
+msgid "Error uploading or importing file."
+msgstr "שגיאה בהעלאת או יבוא הקובץ."
+
+#: siteorigin-panels.php:394
+msgid "Page Builder layouts"
+msgstr "פריסות בנאי הדפים"
+
+#: siteorigin-panels.php:386
+msgid "Column"
+msgstr "עמודה"
+
+#: siteorigin-panels.php:385 tpl/js-templates.php:17
+msgid "Add Row"
+msgstr "הוספת שורה"
+
+#: siteorigin-panels.php:383 tpl/js-templates.php:187
+msgid "Search Widgets"
+msgstr "חיפוש וידג'טים"
+
+#: siteorigin-panels.php:382
+msgid "Add Widget to Cell"
+msgstr "הוספת וידג'ט לתא"
+
+#: siteorigin-panels.php:381
+msgid "Add Widget Below"
+msgstr "הוספת וידג'ט מתחת"
+
+#: siteorigin-panels.php:377
+msgid "Search Results For: "
+msgstr "תוצאות חיפוש עבור"
+
+#. TRANSLATORS: A standard confirmation message
+#: siteorigin-panels.php:376 tpl/js-templates.php:85
+msgid "Are you sure?"
+msgstr "בטוח?"
+
+#. TRANSLATORS: This is the title for a widget called "Layout Builder"
+#: siteorigin-panels.php:374
+msgid "Layout Builder Widget"
+msgstr "וידג'ט בנאי פריסה"
+
+#: siteorigin-panels.php:372
+msgid "Would you like to clear your Page Builder content and revert to using the standard visual editor?"
+msgstr "האם לנקות את תוכן בנאי הדפים ולחזור להשתמש בעורך הרגיל?"
+
+#: siteorigin-panels.php:371
+msgid "Would you like to copy this editor's existing content to Page Builder?"
+msgstr "האם להעתיק אאת התוכן לבנאי הדפים?"
+
+#: siteorigin-panels.php:370
+msgid "Loading prebuilt layout"
+msgstr "טוען פריסה מוכנה מראש"
+
+#: siteorigin-panels.php:369
+msgid "Are you sure you want to overwrite your current content? This can be undone in the builder history."
+msgstr "בטוח שרוצה לדרוס את התוכן הנוכחי? ניתן לשנות את זה בהסטוריית העריכה של הבנאי."
+
+#: siteorigin-panels.php:365
+msgid "Prebuilt layout loaded"
+msgstr "פריסה מוכנה מראש נטענה"
+
+#: siteorigin-panels.php:362
+msgid "Cell resized"
+msgstr "גודל התא השתנה"
+
+#. TRANSLATORS: Message displayed in the history when a row is duplicated
+#: siteorigin-panels.php:359
+msgid "Row duplicated"
+msgstr "השורה שוכפלה"
+
+#. TRANSLATORS: Message displayed in the history when a row position is changed
+#: siteorigin-panels.php:357
+msgid "Row moved"
+msgstr "השורה הועברה"
+
+#. TRANSLATORS: Message displayed in the history when a row is edited
+#: siteorigin-panels.php:355
+msgid "Row edited"
+msgstr "השורה נערכה"
+
+#. TRANSLATORS: Message displayed in the history when a row is added
+#: siteorigin-panels.php:353
+msgid "Row added"
+msgstr "השורה נוספה"
+
+#. TRANSLATORS: Message displayed in the history when a row is deleted
+#: siteorigin-panels.php:351
+msgid "Row deleted"
+msgstr "השורה נמחקה"
+
+#. TRANSLATORS: Message displayed in the history when a widget position is
+#. changed
+#: siteorigin-panels.php:347
+msgid "Widget moved"
+msgstr "הוידג'ט הועבר"
+
+#. TRANSLATORS: Message displayed in the history when a widget is duplicated
+#: siteorigin-panels.php:345
+msgid "Widget duplicated"
+msgstr "הוידג'ט שוכפל"
+
+#. TRANSLATORS: Message displayed in the history when a widget is edited
+#: siteorigin-panels.php:343
+msgid "Widget edited"
+msgstr "הוידג'ט נערך"
+
+#. TRANSLATORS: Message displayed in the history when a widget is added
+#: siteorigin-panels.php:341
+msgid "Widget added"
+msgstr "הוידג'ט נוסף"
+
+#. TRANSLATORS: Message displayed in the history when a widget is deleted
+#: siteorigin-panels.php:339
+msgid "Widget deleted"
+msgstr "הוידג'ט נמחק"
+
+#: siteorigin-panels.php:335
+msgid "Converted to editor"
+msgstr "מומר לעורך"
+
+#: siteorigin-panels.php:334
+msgid "Version restored"
+msgstr "הגרסה שוחזרה"
+
+#: siteorigin-panels.php:333
+msgid "Original"
+msgstr "מקורי"
+
+#: siteorigin-panels.php:332
+msgid "Current"
+msgstr "נוכחי"
+
+#: siteorigin-panels.php:328
+msgid "Now"
+msgstr "כעת"
+
+#. TRANSLATORS: Time ago - eg. "1 minute before".
+#: siteorigin-panels.php:327
+msgid "%s before"
+msgstr "לפני %s"
+
+#. TRANSLATORS: A single hour since
+#: siteorigin-panels.php:324
+msgid "%d hour"
+msgstr "%d שעה"
+
+#. TRANSLATORS: A single minute since
+#: siteorigin-panels.php:322
+msgid "%d minute"
+msgstr "%d דקה"
+
+#. TRANSLATORS: A single second since
+#: siteorigin-panels.php:320
+msgid "%d second"
+msgstr "%d שניה"
+
+#. TRANSLATORS: Number of hours since
+#: siteorigin-panels.php:317
+msgid "%d hours"
+msgstr "%d שעות"
+
+#. TRANSLATORS: Number of minutes since
+#: siteorigin-panels.php:315
+msgid "%d minutes"
+msgstr "%d דקות"
+
+#. TRANSLATORS: Number of seconds since
+#: siteorigin-panels.php:313
+msgid "%d seconds"
+msgstr "%d שניות"
+
+#: siteorigin-panels.php:309
+msgid "Page Builder doesn't know about this widget."
+msgstr "בנאי הדפים לא מכיר את הוידג'ט הזה"
+
+#: siteorigin-panels.php:308
+msgid "Missing Widget"
+msgstr "וידג'ט חסר"
+
+#: siteorigin-panels.php:284
+msgid "All Widgets"
+msgstr "כל הוידג'טים"
+
+#. TRANSLATORS: This is the default name given to a user's home page
+#: siteorigin-panels.php:76 siteorigin-panels.php:136
+msgid "Home Page"
+msgstr "עמוד הבית"
+
+#: siteorigin-panels.php:75
+msgid "Custom Home Page Builder"
+msgstr "בנאי עמוד בית בהתאמה אישית"
+
+#: settings/tpl/settings.php:78 tpl/options.php:93
+msgid "Save Settings"
+msgstr "שמירת ההגדרות"
+
+#: settings/tpl/settings.php:29
+msgid "Settings Saved"
+msgstr "ההגדרות נשמרו"
+
+#: settings/tpl/settings.php:12
+msgid "Search Settings"
+msgstr "הגדרות חיפוש"
+
+#: settings/tpl/help.php:6
+msgid "Please read the 1{settings guide} of the Page Builder documentation for help."
+msgstr "נא לקרוא את מדריך ההגדרות של תיעוד בנאי הדפים לקבלת עזרה."
+
+#: settings/settings.php:276
+msgid "Copy content from Page Builder to post content."
+msgstr "העתקת התוכן מעורך הדפים לתוכן הפוסט"
+
+#: settings/settings.php:275 tpl/options.php:25
+msgid "Copy Content"
+msgstr "העתקת תוכן"
+
+#: settings/settings.php:269
+msgid "Content"
+msgstr "תוכן"
+
+#: settings/settings.php:262
+msgid "The container used for the full width layout."
+msgstr "המיכל המשמש לפריסת רוחב מלא"
+
+#: settings/settings.php:261
+msgid "Full Width Container"
+msgstr "מיכל ברוחב מלא"
+
+#: settings/settings.php:255
+msgid "Default spacing between columns in each row."
+msgstr "ברירת המחדל למרווח בין העמודות בכל שורה"
+
+#: settings/settings.php:254
+msgid "Row Gutter"
+msgstr "גאטר שורה"
+
+#: settings/settings.php:248
+msgid "Default margin below rows."
+msgstr "ברירת המחדל לשוליים מתחת לשורות."
+
+#: settings/settings.php:247 tpl/options.php:70
+msgid "Row Bottom Margin"
+msgstr "שוליים תחתונים של שורה"
+
+#: settings/settings.php:241
+msgid "Device width, in pixels, to collapse into a mobile view ."
+msgstr "רוחב ההתקן בפיקסלים, לקיפול לתצוגת טלפון נייד"
+
+#: settings/settings.php:240 tpl/options.php:64
+msgid "Mobile Width"
+msgstr "רוחב טלפון נייד"
+
+#: settings/settings.php:234
+msgid "Collapse widgets, rows and columns on mobile devices."
+msgstr "קיפול וידג'טים, שורות ועמודות בהתקני טלפון נייד"
+
+#: settings/settings.php:233 tpl/options.php:57
+msgid "Responsive Layout"
+msgstr "פריסה רספונסיבית"
+
+#: settings/settings.php:219
+msgid "Display recommend widgets in Page Builder add widget dialog."
+msgstr "הצגת וידג'טים מומלצים בהוספת הוידגטים של בנאי הדפים"
+
+#: settings/settings.php:213
+msgid "Load legacy widgets from Page Builder 1."
+msgstr "טעינת וידג'טים ישנים מבנאי הדפים"
+
+#: settings/settings.php:212
+msgid "Legacy Bundled Widgets"
+msgstr "חבילת הוידג'טים הישנה"
+
+#: settings/settings.php:207
+msgid "The HTML used for widget titles. {{title}} is replaced with the widget title."
+msgstr "קוד ה HTML המשמש ךכותרות הוידג'טים.{{title}} מוחלף בכותרת הוידג'ט"
+
+#: settings/settings.php:206
+msgid "Widget Title HTML"
+msgstr "כותרת הוידג'ט HTML"
+
+#: settings/settings.php:200
+msgid "Widgets"
+msgstr "וידג'טים"
+
+#: settings/settings.php:194
+msgid "The post types to use Page Builder on."
+msgstr "סוגי הפוסט בהם ניתן להשתמש בבנאי הדפים"
+
+#: settings/settings.php:192 tpl/options.php:15
+msgid "Post Types"
+msgstr "סוגי פוסט"
+
+#: settings/settings.php:186 tpl/options.php:11
+msgid "General"
+msgstr "כללי"
+
+#: settings/settings.php:170
+msgid "Page Builder Settings"
+msgstr "הגדרות בנאי הדפים"
+
+#: settings/settings.php:146 siteorigin-panels.php:110
+#: siteorigin-panels.php:516 tpl/js-templates.php:160
+msgid "Page Builder"
+msgstr "בנאי הדפים"
+
+#: settings/settings.php:146 settings/tpl/settings.php:9 tpl/options.php:5
+msgid "SiteOrigin Page Builder"
+msgstr "בנאי הדפים"
+
+#: inc/widgets.php:168 settings/settings.php:218
+msgid "Recommended Widgets"
+msgstr "וידג'טים מומלצים"
+
+#. TRANSLATORS: The name of WordPress plugin
+#: inc/widgets.php:160
+msgid "BBPress"
+msgstr "BBPress"
+
+#. TRANSLATORS: The name of WordPress plugin
+#: inc/widgets.php:149
+msgid "Jetpack"
+msgstr "ג'טפק"
+
+#. TRANSLATORS: The name of WordPress plugin
+#: inc/widgets.php:138
+msgid "WooCommerce"
+msgstr "ווקומרס"
+
+#: inc/widgets.php:128
+msgid "WordPress Widgets"
+msgstr "ווידג'טים של וורדפרס"
+
+#: inc/widgets.php:120
+msgid "You can enable the legacy (PB) widgets in the 1{Page Builder settings}."
+msgstr "באפשרותך להפעיל את הוידג'טים הישנים בהגדרות בנאי הדפים."
+
+#: inc/widgets.php:112
+msgid "Page Builder Widgets"
+msgstr "ווידג'טים של בנאי הדפים"
+
+#: inc/widgets.php:107
+msgid "Install the 1{Widgets Bundle} to get extra widgets."
+msgstr "נא להתקין את חבילת הוידג'טים כדי לקבל וידג'טים נוספים"
+
+#: inc/widgets.php:99
+msgid "Enable more widgets in the 1{Widgets Bundle settings}."
+msgstr "ניתן להפעיל עוד וידג'טים בהגדרות חבילת הוידג'טים"
+
+#: inc/widgets.php:84
+msgid "Widgets Bundle"
+msgstr "חבילת ווידג'טים"
+
+#: inc/widgets-bundle.php:68
+msgid "Display your posts as a carousel."
+msgstr "הצגת הפוסטים שלך בקרוסלה"
+
+#: inc/widgets-bundle.php:67
+msgid "SiteOrigin Post Carousel"
+msgstr "קרוסלת פוסטים של SiteOrigin"
+
+#: inc/widgets-bundle.php:56
+msgid "Display site features as a collection of icons."
+msgstr "הצגת המאפיינים כאוסף של צלמיות"
+
+#: inc/widgets-bundle.php:55
+msgid "SiteOrigin Features"
+msgstr "מאפיינים של SiteOrigin"
+
+#: inc/widgets-bundle.php:44
+msgid "A basic slider widget."
+msgstr "וידג'ט סליידר בסיסי"
+
+#: inc/widgets-bundle.php:43
+msgid "SiteOrigin Slider"
+msgstr "סליידר של SiteOrigin"
+
+#: inc/widgets-bundle.php:32
+msgid "Choose images from your media library."
+msgstr "בחירת תמונות מספריית המדיה שלך"
+
+#: inc/widgets-bundle.php:31
+msgid "SiteOrigin Image"
+msgstr "תמונה של SiteOrigin"
+
+#: inc/widgets-bundle.php:20 widgets/widgets/button/button.php:8
+msgid "A simple button"
+msgstr "כפתור פשוט"
+
+#: inc/widgets-bundle.php:19
+msgid "SiteOrigin Button"
+msgstr "כפתור של SiteOrigin"
+
+#: inc/widgets-bundle.php:11 inc/widgets-bundle.php:23
+#: inc/widgets-bundle.php:35 inc/widgets-bundle.php:47
+#: inc/widgets-bundle.php:59 inc/widgets-bundle.php:71 inc/widgets.php:106
+msgid "SiteOrigin Widgets Bundle"
+msgstr "מקבץ וידג'טים של SiteOrigin"
+
+#: inc/widgets-bundle.php:8
+msgid "A rich text editor"
+msgstr "עורך טקסט עשיר"
+
+#: inc/widgets-bundle.php:7
+msgid "SiteOrigin Editor"
+msgstr "עורך SiteOrigin"
+
+#: inc/styles.php:201 settings/settings.php:313
+msgid "Enabled"
+msgstr "פעיל"
+
+#: inc/styles.php:187
+msgid "Remove"
+msgstr "הסרה"
+
+#: inc/styles.php:183
+msgid "Select Image"
+msgstr "בחירת תמונה"
+
+#: inc/styles.php:64
+msgid "Theme"
+msgstr "תבנית"
+
+#: inc/styles.php:54
+msgid "Design"
+msgstr "עיצוב"
+
+#: inc/styles.php:50 settings/settings.php:225
+msgid "Layout"
+msgstr "פריסה"
+
+#: inc/styles.php:46
+msgid "Attributes"
+msgstr "תכונות"
+
+#: inc/styles.php:23
+msgid "Widget Styles"
+msgstr "עיצובי וידג'ט"
+
+#: inc/styles.php:19
+msgid "Row Styles"
+msgstr "עיצובי שורה"
+
+#: inc/revisions.php:50
+msgid "Page Builder Content"
+msgstr "תוכן בנאי הדפים"
+
+#: inc/plugin-activation.php:74
+msgid "Installing %s"
+msgstr "מתקין את %s"
+
+#: inc/plugin-activation.php:7 inc/plugin-activation.php:8
+msgid "Install Page Builder Plugin"
+msgstr "נא להתקין את בנאי הדפים"
+
+#: inc/default-styles.php:219
+msgid "Color of text inside this widget."
+msgstr "צבע הטקסט שבתוך הוידג'ט"
+
+#: inc/default-styles.php:216
+msgid "Font Color"
+msgstr "צבע גופן"
+
+#: inc/default-styles.php:211
+msgid "Border color of the widget."
+msgstr "צבע המסגרת של הוידג'ט"
+
+#: inc/default-styles.php:189
+msgid "Background image of the widget."
+msgstr "תמונת הרקע של הוידג'ט"
+
+#: inc/default-styles.php:181
+msgid "Background color of the widget."
+msgstr "צבע הרקע של הוידג'ט"
+
+#: inc/default-styles.php:170
+msgid "Padding around the entire widget."
+msgstr "המרווח סביה הוידג'ט כולו"
+
+#: inc/default-styles.php:151
+msgid "Widget Class"
+msgstr "מחלקת וידג'ט"
+
+#: inc/default-styles.php:142
+msgid "Border color of the row."
+msgstr "צבע המסגרת של השורה"
+
+#: inc/default-styles.php:139 inc/default-styles.php:208
+msgid "Border Color"
+msgstr "צבע מסגרת"
+
+#: inc/default-styles.php:134 inc/default-styles.php:203
+msgid "How the background image is displayed."
+msgstr "איך תוצג תמונת הרקע"
+
+#: inc/default-styles.php:132 inc/default-styles.php:201
+msgid "Parallax"
+msgstr "פאראלקס"
+
+#: inc/default-styles.php:131 inc/default-styles.php:200
+msgid "Centered, with original size"
+msgstr "ממורכזת בגודל מקורי"
+
+#: inc/default-styles.php:130 inc/default-styles.php:199
+msgid "Cover"
+msgstr "כיסוי"
+
+#: inc/default-styles.php:129 inc/default-styles.php:198
+msgid "Tiled Image"
+msgstr "תמונת אריחים"
+
+#: inc/default-styles.php:125 inc/default-styles.php:194
+msgid "Background Image Display"
+msgstr "תצוגת תמונת רקע"
+
+#: inc/default-styles.php:120
+msgid "Background image of the row."
+msgstr "תמונת הרקע של השורה."
+
+#: inc/default-styles.php:117 inc/default-styles.php:186
+msgid "Background Image"
+msgstr "תמונת רקע"
+
+#: inc/default-styles.php:112
+msgid "Background color of the row."
+msgstr "צבע הרקע של השורה"
+
+#: inc/default-styles.php:109 inc/default-styles.php:178
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: inc/default-styles.php:101
+msgid "Full Width Stretched"
+msgstr "רוחב מלא מתוח"
+
+#: inc/default-styles.php:100
+msgid "Full Width"
+msgstr "רוחב מלא"
+
+#: inc/default-styles.php:99
+msgid "Standard"
+msgstr "רגיל"
+
+#: inc/default-styles.php:95
+msgid "Row Layout"
+msgstr "פריסת השורה"
+
+#: inc/default-styles.php:89
+msgid "Padding around the entire row."
+msgstr "המרווח סביה השורה כולה"
+
+#: inc/default-styles.php:86 inc/default-styles.php:167
+msgid "Padding"
+msgstr "מרווח"
+
+#: inc/default-styles.php:81
+msgid "Amount of space between columns."
+msgstr "המרווח בין העמודות"
+
+#: inc/default-styles.php:78
+msgid "Gutter"
+msgstr "גאטר"
+
+#: inc/default-styles.php:73
+msgid "Space below the row."
+msgstr "המרווח מתחת לשורה"
+
+#: inc/default-styles.php:70
+msgid "Bottom Margin"
+msgstr "שוליים תחתונים"
+
+#: inc/default-styles.php:63 inc/default-styles.php:162
+msgid "CSS Styles, given as one per row."
+msgstr "עיצובי CSS, אחד בשורה"
+
+#: inc/default-styles.php:60 inc/default-styles.php:159
+msgid "CSS Styles"
+msgstr "עיצובי CSS"
+
+#: inc/default-styles.php:55
+msgid "Class added to all cells in this row."
+msgstr "מחלקה עבור כל התאים בשורה זו"
+
+#: inc/default-styles.php:52
+msgid "Cell Class"
+msgstr "מחלקת תא"
+
+#: inc/default-styles.php:47 inc/default-styles.php:154
+msgid "A CSS class"
+msgstr "מחלקת עיצוב CSS"
+
+#: inc/default-styles.php:44
+msgid "Row Class"
+msgstr "מחלקת שורה"
+
+#. TRANSLATORS: Indicate if there are items to clone. %s will be pages, posts,
+#. etc.
+#: inc/admin-actions.php:129
+msgid "There are no %s with Page Builder content to clone."
+msgstr "אין %s לשכפול בבנאי הדפים"
+
+#: inc/admin-actions.php:111
+msgid "Clone"
+msgstr "שיכפול"
+
+#: inc/admin-actions.php:78
+msgid "You can still clone existing pages though."
+msgstr "אפשר לשכפל עמודים קיימים"
+
+#: inc/admin-actions.php:77
+msgid "Your theme doesn't have any prebuilt layouts."
+msgstr "התבנית שלך לא תומכת בפריסות בנויות מראש"
+
+#: inc/admin-actions.php:68
+msgid "No description"
+msgstr "ללא תיאור"

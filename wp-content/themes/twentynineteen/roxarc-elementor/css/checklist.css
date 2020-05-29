@@ -1,0 +1,26 @@
+.roxarc-checklist {
+  background-color: #FDF3F2;
+}
+
+.roxarc-checklist-title {
+  font-family: "almoni-tzar-regular-aaa";
+  direction: rtl;
+  margin-right: 5%;
+}
+
+.roxarc-checklist-title:before {
+  all: unset;
+}
+
+.roxarc-checklist-item {
+  direction: rtl;
+  margin-right: 5%;
+}
+
+.roxarc-checklist-hr {
+  border: 0;
+  clear:both;
+  display:block;               
+  background-color:black!important;
+  height: 1px;
+}
